@@ -47,7 +47,10 @@ Sure, let's create a hypothetical case study on weather data analysis. For this 
    - Highlight any notable patterns or trends observed in the weather data.
    - Discuss potential factors that might influence the weather in the given location.
 
-**Tools:**
+**Tools:**![download](https://github.com/BS-World/Weather-Data-Analysis-by-Bhanu/assets/63925690/221b1eb6-2fef-43c7-b5c4-0cb467a60a85)
+
+
+
 For this analysis, you can use popular data analysis and visualization libraries in Python such as Pandas, NumPy, Matplotlib, and Seaborn. Additionally, for time-series forecasting (if included), you may use libraries like statsmodels or Prophet.
 
 **Note:** This case study is just an example, and the actual approach and complexity of the analysis may vary based on the specific data and objectives. Always ensure to properly cite and credit the data sources if you are using real-world data.
