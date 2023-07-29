@@ -1,4 +1,4 @@
-# Weather-Data-Analysis-by-Bhanu
+# Weather Data Analysis
 Sure, let's create a hypothetical case study on weather data analysis. For this case study, let's assume that we have been provided with historical weather data for a particular location. Our goal is to perform an analysis of this data to gain insights into the weather patterns and trends over the past few years.
 
 **Case Study: Weather Data Analysis**
