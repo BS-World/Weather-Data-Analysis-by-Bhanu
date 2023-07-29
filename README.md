@@ -47,7 +47,7 @@ Sure, let's create a hypothetical case study on weather data analysis. For this 
    - Highlight any notable patterns or trends observed in the weather data.
    - Discuss potential factors that might influence the weather in the given location.
 
-**Tools:**![download](https://github.com/BS-World/Weather-Data-Analysis-by-Bhanu/assets/63925690/221b1eb6-2fef-43c7-b5c4-0cb467a60a85)
+**Tools:**
 
 
 
